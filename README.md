@@ -5,7 +5,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesrodrigo528@gmail.com?subject=&body=m)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sgr_digital_01?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
-[![Rodrigo Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo1488)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
